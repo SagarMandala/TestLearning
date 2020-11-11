@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            // Test code from Git Bash
+            // Test code from Git Bash new    
         }
     }
 }
